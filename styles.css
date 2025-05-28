@@ -1,0 +1,130 @@
+
+<style>
+
+body {
+
+font-family: Arial, sans-serif;
+
+color: #333;
+  
+background-image: 'outrage.jpg';
+background-size: cover;
+  background-repeat: no repeat;
+  background-position`: whole page;
+margin: 0;
+  
+padding:0;
+
+line-height:2;
+
+}
+header {
+
+  font-family: Brush Script MT, sans-serif;
+  
+background-color: black;
+
+color: white;
+
+padding: 65px;
+text-align: center;
+}
+
+
+header h1 {
+
+margin: 0;
+
+}
+
+
+nav a {
+
+color: grey;
+
+text-decoration: none;
+
+margin: 0 50px;
+  }
+
+
+nav a:hover {
+
+text-decoration: underline;
+}
+
+main {
+
+padding: 50px;
+
+max-width: 800px;
+
+margin: 0 auto;
+
+}
+
+
+main img {
+
+max-width: 100%;
+
+height: auto;
+
+display: block;
+
+margin: 20px 0;
+
+}
+
+footer {
+
+background-color:grey;
+
+color:black;
+
+text-align: left;
+
+padding: 10px;
+
+position: fixed;
+
+bottom: 0;
+
+width: 100%;
+
+}
+p {
+
+font-size: 1.1em;
+
+}
+
+
+a {
+
+color: #4CAF50;
+
+text-decoration: none;
+
+}
+
+
+a:hover {
+
+text-decoration: underline;
+  
+}
+img {
+
+border: 5px solid #4CAF50;
+
+border-radius: 10px;
+
+}
+main a[href^="mailto:"] {
+
+color: #ff5722;
+
+font-weight: bold;
+
+}
